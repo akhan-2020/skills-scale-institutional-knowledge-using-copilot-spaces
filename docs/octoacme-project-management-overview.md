@@ -21,11 +21,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
+- Project README / Single Source of Truth - see [template-project-readme.md](./template-project-readme.md)
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
-- Risk Register
+- Acceptance Criteria & Definition of Done - see [template-definition-of-done.md](./template-definition-of-done.md)
+- Risk Register - see [template-risk-register.md](./template-risk-register.md)
+- Decision Log - see [template-decision-log.md](./template-decision-log.md)
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
@@ -42,5 +44,35 @@ Applies to all cross-functional projects that deliver product features, services
 - Ad-hoc escalations as needed
 
 ## How to use these docs
-- Keep the Project Charter updated in the project repo.
-- Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Keep the Project README as your single source of truth (see [template-project-readme.md](./template-project-readme.md))
+- Keep the Project Charter updated in the project repo
+- Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context
+- Use the provided templates to maintain consistency across projects:
+  - [Decision Log Template](./template-decision-log.md)
+  - [Risk Register Template](./template-risk-register.md)
+  - [Definition of Done Template](./template-definition-of-done.md)
+  - [Project README Template](./template-project-readme.md)
+  - [Release Readiness Checklist](./checklist-release-readiness.md)
+
+## Inputs & Outputs
+
+### Inputs to the Overall Process
+- Business objectives and strategic priorities
+- Customer needs and market research
+- Available resources (team, budget, timeline)
+- Stakeholder requirements and constraints
+
+### Outputs from the Overall Process
+- Delivered features and products
+- Project documentation and artifacts
+- Learnings and best practices (retrospectives)
+- Updated roadmaps and future plans
+
+## Related Documents
+- [Project Initiation Guide](./octoacme-project-initiation.md)
+- [Project Planning](./octoacme-project-planning.md)
+- [Execution & Tracking](./octoacme-execution-and-tracking.md)
+- [Release & Deployment](./octoacme-release-and-deployment.md)
+- [Risks & Communication](./octoacme-risks-and-communication.md)
+- [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](./octoacme-roles-and-personas.md)

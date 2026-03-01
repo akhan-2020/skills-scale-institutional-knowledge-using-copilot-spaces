@@ -28,16 +28,26 @@ Quality assurance and release practices are embedded throughout our delivery pro
 - **[Roles & Personas](octoacme-roles-and-personas.md)** – Definitions of key roles (PM, Product Manager, Developers, QA, Stakeholders)
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** – Managing risks, dependencies, and stakeholder communication
 
+### Templates & Checklists
+- **[Project README Template](template-project-readme.md)** – Single source of truth for project status, links, and cadence
+- **[Decision Log Template](template-decision-log.md)** – Track important decisions, rationale, and alternatives
+- **[Risk Register Template](template-risk-register.md)** – Structured risk identification, assessment, and mitigation
+- **[Definition of Done Template](template-definition-of-done.md)** – Quality standards and acceptance criteria guidance
+- **[Release Readiness Checklist](checklist-release-readiness.md)** – Comprehensive pre-release, deployment, and post-release verification
+
 ## How to Use These Docs
 
 ### For New Team Members
 Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our core principles and lifecycle. Then review the [Roles & Personas](octoacme-roles-and-personas.md) document to understand responsibilities across the organization. As you begin working on projects, reference the phase-specific guides (Initiation, Planning, Execution, Release, Retrospective) for detailed checklists and templates.
 
 ### For Active Projects
+- Create a **Project README** using the [template](template-project-readme.md) as your single source of truth
 - Keep your **Project Charter** and **One-pager** updated in your project repository
 - Reference the **Planning** and **Execution** guides for backlog templates and workflow conventions
-- Use the **Risk Register** template to track and communicate dependencies
-- Follow the **Release** checklist before deploying to production
+- Use the **[Risk Register template](template-risk-register.md)** to track and communicate dependencies
+- Maintain a **[Decision Log](template-decision-log.md)** for important architecture and design choices
+- Follow the **[Definition of Done](template-definition-of-done.md)** to ensure consistent quality
+- Use the **[Release Readiness Checklist](checklist-release-readiness.md)** before deploying to production
 - Schedule regular **Retrospectives** using the provided structure and action item tracking
 
 ### For Copilot Spaces Integration
