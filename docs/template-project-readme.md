@@ -15,12 +15,14 @@ Serve as the single source of truth for project status, key links, decisions, an
 3. Assign a DRI (Directly Responsible Individual) to keep it updated
 4. Review and update weekly during team syncs
 5. Reference this document in status updates and communications
+6. **Accessibility note:** When using status emojis, include the text label (e.g., "🟢 On Track") to ensure clarity for all users
 
 ---
 
 # [Project Name]
 
 **Status:** 🟢 On Track | 🟡 At Risk | 🔴 Blocked | ✅ Complete  
+_(Choose one: 🟢 On Track, 🟡 At Risk, 🔴 Blocked, or ✅ Complete)_  
 **Last Updated:** YYYY-MM-DD  
 **Updated By:** [Name]
 
